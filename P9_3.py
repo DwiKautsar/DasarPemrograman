@@ -22,3 +22,9 @@ def login():
 
 login()
 print("Hello World")
+
+def logout():
+    print("Anda telah keluar dari aplikasi ini.")
+    return True
+
+logout()
