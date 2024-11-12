@@ -9,3 +9,9 @@ def volumetabung(jari, tinggi):
 volume = volumetabung(2,4)
 print(f"Hasil Volume tabung nya adalah: {volume}") 
 print("Hello World")
+
+def pembagian(a,b):
+    return a/b
+
+y = pembagian(9,3)
+print(y)
