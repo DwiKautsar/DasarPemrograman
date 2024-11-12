@@ -20,3 +20,4 @@ menit_selisih = (selisih_detik % 3600) // 60
 detik_selisih = selisih_detik % 60
 
 print(f"Selisih waktu: {jam_selisih} jam - {menit_selisih} menit - {detik_selisih} detik")
+print("Hello World")
