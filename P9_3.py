@@ -28,3 +28,4 @@ def logout():
     return True
 
 logout()
+print("Bekasi")
