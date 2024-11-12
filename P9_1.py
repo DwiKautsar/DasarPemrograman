@@ -14,3 +14,9 @@ total, rata_rata = total_rata_rata(nilai_list)
 print(f"Total : {total}")
 print(f"Rata-rata : {rata_rata}")  
 print("Hello World")
+
+def jumlah(a,b):
+    return a + b
+
+x = jumlah(5, 7)
+print(x)
