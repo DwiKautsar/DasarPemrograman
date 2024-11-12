@@ -13,3 +13,4 @@ total, rata_rata = total_rata_rata(nilai_list)
 
 print(f"Total : {total}")
 print(f"Rata-rata : {rata_rata}")  
+print("Hello World")
